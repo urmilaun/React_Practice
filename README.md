@@ -1,4 +1,2 @@
-Three folders 
-mytutorial
-routing
-Receipe App
+This is Mytutoria folder 
+In this folder properties and states includes
